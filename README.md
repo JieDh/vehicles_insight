@@ -12,13 +12,16 @@ Install Python 3.8 and Pandas
 
 ### :signal_strength: Usage
 Given a data frame as an argument, prints its shape.
+* its shape
+* the number of rows
+* the number of columns
+* a list with col names
 
+```
     Parameters:
         x: data frame
     
-    Returns:
-        dataframe's shape
-
+ ```
 ### :file_folder: **Folder structure**
 
 ```
